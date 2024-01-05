@@ -1,0 +1,1 @@
+Please report any suspected security vulnerabilities to [Red Hat Product Security](https://access.redhat.com/security/team/contact).
